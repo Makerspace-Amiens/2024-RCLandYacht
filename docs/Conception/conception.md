@@ -70,6 +70,10 @@ Ces tubes s'étendent de l'avant du coffrage jusqu'au châssis, du châssis à l
 
 ![Image Tube alu coffrage](Conception_files/Tube_alu_coffrage.png)
 
+## Pièce pour attaché la roue avant : 
+
+![Image Tube alu coffrage](Conception_files/Pièce_roue_avant.png)
+
 
 
 # Châssis 

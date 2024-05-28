@@ -61,14 +61,14 @@ Cette pièce accueille le mât du char et permet à celui-ci de descendre à l'i
 Il s'agit d'une pièce réaliser à l'aide d'une imprimante 3D.
 Cette pièce, imprimées en deux exemplaires, est située à l'intérieur du coffrage, renforce et rigidifie celui-ci tout en accueillant le mât à l'intérieur.
 
-![Image Renfort mat](Conception_files/renfort_mat.png)
+![Image Renfort mat](Conception_files/Renfort_mat.png)
 
 ## Tube alu : 
 Il s'agit d'un tube en aluminium de 10mm de diamètre.
 Nous avons opté pour des tubes en aluminium en raison de leur résistance aux contraintes imposées par le char. 
 Ces tubes s'étendent de l'avant du coffrage jusqu'au châssis, du châssis à la fixation des roues principales. Ils servent également de mât et de bôme pour le char.
 
-![Image Tube alu coffrage](Conception_files/tube_alu_coffrage.png)
+![Image Tube alu coffrage](Conception_files/Tube_alu_coffrage.png)
 
 
 

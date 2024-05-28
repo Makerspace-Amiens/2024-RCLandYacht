@@ -30,6 +30,8 @@ Pour la première version, nous avons choisis de partir d'une page blanche et de
 # Coffrage 
 Le coffrage est l'élément qui relie la fixation de la roue avant au châssis du char à voile. Il comprend également l'encastrement pour le servomoteur de direction, le support pour le mât et des renforts pour assurer sa rigidité.
 
+![Image CoffrageV3_3D](Conception_files/CoffrageV3_3D.png)
+
 ## Longeron horizontal : 
 Il s'agit d'une pièce en bois de peuplier découpée à l'aide d'une découpeuse laser. 
 Cette pièce est utilisée pour réaliser le coffrage, dont nous avons découpé deux exemplaires : un pour la partie inférieure et un pour la partie supérieure.

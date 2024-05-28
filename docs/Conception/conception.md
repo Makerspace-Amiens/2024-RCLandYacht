@@ -19,7 +19,7 @@ Nous avons listé 6 catégories :
 5- Capteurs
 6- Coque
 
-METTRE PHOTO DU TABLEAU AVEC POST-IT
+![Image Post-it](Conception_files/post-it.jpeg)
 
 ## Première version : 
 Pour la première version, nous avons choisis de partir d'une page blanche et de  réaliser le char de A à Z, nous avons fait 

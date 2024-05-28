@@ -79,7 +79,7 @@ Ces tubes s'étendent de l'avant du coffrage jusqu'au châssis, du châssis à l
 # Le coffrage réaliser
 Voici la photo de notre coffrage une fois l'ensemble réaliser et monter :
 
-![Image Coffrage V3](Conception_files/coffrageV3.jepg)
+![Image Coffrage V3](Conception_files/coffrageV3.jpeg)
 
 
 

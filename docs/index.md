@@ -4,6 +4,25 @@ nav_order: 1
 title: Accueil
 ---
 
+<style>
+	.video-container {
+		position: relative;
+		padding-bottom: 56.25%; /* Ratio 16:9 */
+		height: 0;
+		overflow: hidden;
+		max-width: 100%;
+		background: #000;
+	}
+
+	.video-container video {
+		position: absolute;
+		top: 0;
+		left: 0;
+		width: 100%;
+		height: 100%;
+	}
+</style>
+
 # Bienvenue sur notre documentation
 
 Bienvenue dans la documentation du projet Char à voile télécommandé. Ce site a pour but de fournir toutes les informations nécessaires pour comprendre, utiliser et reproduire efficacement notre projet.
@@ -18,8 +37,8 @@ Le projet RC Landyacht consiste a créer un char a voile radiocommandé, le proj
 
 Ici vous publierez le poster de votre projet.
 
-![Poster projet](images/poster_rc.png)
+![Poster projet](./images/poster_rc.png)
 
-<video src="https://files.catbox.moe/9onr1o.mp4" controls title="Title"  style="width: 100%;"></video>
+<div class="video-container"><video controls><source src="./images/rc_land_car.webm" type="video/webm" /></video></div>
 
 ---

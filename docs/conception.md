@@ -1,8 +1,6 @@
 ---
 layout: technicals
-grand_parent: docs
-parent: Conception
-nav_order: 1
+nav_order: 3
 title: Conception
 ---
 

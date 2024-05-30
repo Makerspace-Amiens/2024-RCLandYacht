@@ -1,10 +1,12 @@
 ---
 layout: technicals
-nav_order: 5
-title: Conception et prototypage
+grand_parent: docs
+parent: Conception
+nav_order: 1
+title: Conception
 ---
 
-# Conception et prototypage
+# Conception
 
 ## Conception 
 Pour débuter, nous avons consacré plusieurs heures à des recherches sur le fonctionnement des chars à voile, en examinant également des projets existants.

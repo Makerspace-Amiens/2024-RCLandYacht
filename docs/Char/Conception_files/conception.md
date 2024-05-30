@@ -1,7 +1,7 @@
 ---
 layout: technicals
 parent: Char
-nav_order: 2
+nav_order: 1
 title: Conception
 has_children: true
 ---

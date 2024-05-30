@@ -1,7 +1,7 @@
 ---
 layout: default
 parent: Char
-nav_order: 1
+nav_order: 2
 title: Conception
 has_children: true
 ---

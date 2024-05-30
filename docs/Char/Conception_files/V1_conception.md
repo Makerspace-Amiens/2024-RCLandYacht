@@ -1,9 +1,9 @@
 ---
-layout: technicals
-grand_parent: docs
+layout: default
+grand_parent: Char
 parent: Conception
-nav_order: 2
-title: Première Version
+nav_order: 1
+title: 1ère Version
 ---
 
 # Première version : 

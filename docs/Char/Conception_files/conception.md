@@ -1,5 +1,5 @@
 ---
-layout: technicals
+layout: default
 parent: Char
 nav_order: 1
 title: Conception

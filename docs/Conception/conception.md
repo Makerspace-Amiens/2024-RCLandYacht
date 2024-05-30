@@ -21,12 +21,6 @@ Nous avons listé 6 catégories :
 
 ![Image Post-it](Conception_files/post-it.jpeg)
 
-## Première version : 
-Pour la première version, nous avons choisis de partir d'une page blanche et de  réaliser le char de A à Z, nous avons fait 
-
-![Image Char_V1](Conception_files/Chassis_charV1.png)
-
-
 # Coffrage 
 Le coffrage est l'élément qui relie la fixation de la roue avant au châssis du char à voile. Il comprend également l'encastrement pour le servomoteur de direction, le support pour le mât et des renforts pour assurer sa rigidité.
 

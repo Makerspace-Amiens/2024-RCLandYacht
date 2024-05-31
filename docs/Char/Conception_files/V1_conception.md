@@ -23,6 +23,18 @@ Pièce raccord avant :
 
 Nous avons imaginé une pièce fabriquée en impression 3D, qui permettrait à la fois de relier les deux tubes en carbone aux raccords des roues principales et de faire passer le tube en carbone de l'arrière vers l'avant du char, mais aussi d'accueillir le mât.
 
+Pièce raccord arrière : 
+
+<img src="../../images/pièce_raccord_arrière.png" height="80%" width="80%">
+
+Nous avons imaginé une pièce en forme de T, fabriquée en impression 3D, qui accueillerait le tube principal et relierait les deux tubes aux raccords des roues principales.
+
+Pièce raccord roues principales : 
+
+<img src="../../images/pièce_raccord_roue.png" height="80%" width="80%">
+
+Nous avons imaginé une pièce fabriquée en impression 3D, qui accueillerait les deux tubes du raccord arrière et les deux tubes du raccord avant, tout en permettant de fixer les roues principales au char.
+
 
 ### Tubes carbone : 
 Voici les tubes en carbone que nous avons trouvés :

@@ -17,7 +17,7 @@ Pour la première version de notre char à voile, nous avons décidé de le conc
 Pour le choix des matériaux, nous avons opté pour un char entièrement fabriqué par impression 3D et renforcé avec des tubes en carbone.
 
 ### Tubes carbone : 
-Voici les tubes en carbone que nous avions trouvé pour notre char : 
+Voici les tubes en carbone que nous avons trouvés :
 
 <img src="../../images/tube_carbone.png" height="80%" width="80%">
 

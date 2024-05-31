@@ -18,8 +18,10 @@ Pour le choix des matériaux, nous avons opté pour un char entièrement fabriqu
 
 ### Pièces en 3D : 
 Pièce raccord avant : 
+
 <img src="../../images/pièce_raccord_avant.png" height="80%" width="80%">
-Nous avions imaginer une pièce réaliser en impression 3D qui permettrais d'a la fois relier les deux tubes carbone 
+
+Nous avons imaginé une pièce fabriquée en impression 3D, qui permettrait à la fois de relier les deux tubes en carbone aux raccords des roues principales et de faire passer le tube en carbone de l'arrière vers l'avant du char, mais aussi d'accueillir le mât.
 
 
 ### Tubes carbone : 

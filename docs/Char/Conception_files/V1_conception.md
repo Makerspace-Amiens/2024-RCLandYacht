@@ -41,6 +41,17 @@ Voici les tubes en carbone que nous avons trouvés :
 
 <img src="../../images/tube_carbone.png" height="80%" width="80%">
 
+Nous avons choisi ces tubes car ils sont très légers et offrent une grande résistance à la traction. Leur seul inconvénient est leur faible résistance à la compression.
+
+### Roues : 
+Voici les roues que nous avons trouvés :
+
+<img src="../../images/roues.png" height="80%" width="80%">
+
+Nous avons choisi ces roues car elles permettent un facile dépassement des obstacles mais est également indiquées pour tous les types de sol en extérieur nottament sur le sable.
+
+### Voile :
+
 
 
 

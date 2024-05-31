@@ -17,7 +17,9 @@ Pour la première version de notre char à voile, nous avons décidé de le conc
 Pour le choix des matériaux, nous avons opté pour un char entièrement fabriqué par impression 3D et renforcé avec des tubes en carbone.
 
 ### Pièces en 3D : 
-
+Pièce raccord avant : 
+<img src="../../images/pièce_raccord_avant.png" height="80%" width="80%">
+Nous avions imaginer une pièce réaliser en impression 3D qui permettrais d'a la fois relier les deux tubes carbone 
 
 
 ### Tubes carbone : 

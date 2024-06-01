@@ -46,10 +46,20 @@ Cette pièce accueille le mât du char jusqu'à sa base.
 
 <img src="../../images/pièce_mâtV2_proto.png" height="40%" width="40%">
 
-### Pièce roue avant
+### Pièce roue avant :
 Il s'agit d'une pièce réaliser à l'aide d'une imprimante 3D.
 Cette pièce est fixée au coffrage avec quatre vis et permet d'attacher la roue avant à l'aide d'une vis supplémentaire.
 
 <img src="../../images/Pièce_roue_avant.png" height="50%" width="50%">
 
 ## Châssis : 
+Le châssis est l'élément central du char, comprenant la base, le renfort du longeron, les réhausses et les bras + la pièce pour la fixation des roues principales.
+
+
+
+### Base du Châssis :
+Il s'agit d'une pièce en bois de peuplier découpée à l'aide d'une découpeuse laser. 
+Cette pièce constitue la fondation du char à voile. Nous nous sommes inspirés d'un projet existant pour la concevoir. Elle est pourvue de trous permettant de fixer les nombreuses composantes du char et s'emboîte avec le coffrage pour former une seule pièce.
+
+<img src="../../images/ChâssisV2_proto.png" height="80%" width="80%">
+

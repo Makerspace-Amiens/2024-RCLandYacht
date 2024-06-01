@@ -47,5 +47,7 @@ Cette pièce accueille le mât du char jusqu'à sa base.
 <img src="../../images/pièce_mâtV2_proto.png" height="40%" width="40%">
 
 ### Pièce roue avant
+Il s'agit d'une pièce réaliser à l'aide d'une imprimante 3D.
+Cette pièce est fixée au coffrage avec quatre vis et permet d'attacher la roue avant à l'aide d'une vis supplémentaire.
 
 <img src="../../images/Pièce_roue_avant.png" height="60%" width="60%">

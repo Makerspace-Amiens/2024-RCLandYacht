@@ -53,7 +53,7 @@ Nous avons choisi ces roues car elles permettent un facile dépassement des obst
 ### Voile :
 Voici la voile que nous avons trouvés : 
 
-<img src="../../images/VoileV1.png" height="80%" width="80%">
+<img src="../../images/VoileV1.png" height="50%" width="50%">
 
 Nous avons opté pour cette voile en tissu Dacron car elle offre le meilleur équilibre entre qualité, prix et durabilité pour la réalisation de la voile de notre char.
 

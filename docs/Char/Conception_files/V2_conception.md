@@ -63,3 +63,21 @@ Cette pièce constitue la fondation du char à voile. Nous nous sommes inspirés
 
 <img src="../../images/ChâssisV2_proto.png" height="80%" width="80%">
 
+### bras roues principale : 
+Il s'agit d'une pièce en bois de peuplier découpée à l'aide d'une découpeuse laser. 
+Cette pièce, découpées en deux exemplaires, servent à connecter le châssis aux fixations des roues principales.
+Ces pièces ont une longueur de 240 mm, sont montées en dessous et vers le centre du châssis. Nous les avons inclinées de 15 degrés vers l'arrière pour positionner les roues principales vers l'arrière du châssis, ce qui améliore la stabilité et assure une répartition optimale du poids sur les roues.
+
+<img src="../../images/BrasV2_proto.png" height="80%" width="80%">
+
+### Renfort fixation bras : 
+Il s'agit d'une pièce en bois de peuplier découpée à l'aide d'une découpeuse laser. 
+Cette pièce est positionnée au-dessus et vers l'avant du châssis. Son rôle est de renforcer le châssis contre les contraintes du poids susceptible de le plier, ainsi que celles exercées par les bras situés en dessous.
+
+<img src="../../images/Renfort_fixationV2_proto.png" height="80%" width="80%">
+
+### pièces pour la fixation des roues principales : 
+Il s'agit d'une pièce réaliser à l'aide d'une imprimante 3D.
+Cette pièce, imprimées en deux exemplaires, se trouvent à l'extrémité des bras et servent à fixer les roues principales au char. Elles sont également reliées à la pièce tri-branche grâce aux tubes en aluminium, ce qui renforce l'ensemble de la structure.
+
+<img src="../../images/fixation_roueV2_proto.png" height="80%" width="80%">

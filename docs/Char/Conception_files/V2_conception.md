@@ -77,6 +77,17 @@ Cette pièce est positionnée au-dessus et vers l'avant du châssis. Son rôle e
 
 <img src="../../images/Renfort_fixationV2_proto.png" height="80%" width="80%">
 
+### Réhausse : 
+
+<img src="../../images/RéhausseV2_proto.png" height="80%" width="30%">
+
+### Renfort longeron : 
+Il s'agit d'une pièce en bois de peuplier découpée à l'aide d'une découpeuse laser. 
+Cette pièce est positionnée au-dessus et vers l'avant du châssis. Son rôle est de renforcer le châssis contre les contraintes du poids susceptible de le plier, ainsi que celles exercées par les bras situés en dessous.
+
+<img src="../../images/Renfort_longeronV2_proto.png" height="80%" width="80%">
+
+
 ### pièces pour la fixation des roues principales : 
 Il s'agit d'une pièce réaliser à l'aide d'une imprimante 3D.
 Cette pièce, imprimées en deux exemplaires, se trouvent à l'extrémité des bras et servent à fixer les roues principales au char. Elles sont également reliées à la pièce tri-branche grâce aux tubes en aluminium, ce qui renforce l'ensemble de la structure.

@@ -55,13 +55,14 @@ Cette pièce est fixée au coffrage avec quatre vis et permet d'attacher la roue
 ## Châssis : 
 Le châssis est l'élément central du char, comprenant la base, le renfort du longeron, les réhausses et les bras + la pièce pour la fixation des roues principales.
 
+<img src="../../images/ChâssisV2_proto.png" height="80%" width="80%">
 
 
 ### Base du Châssis :
 Il s'agit d'une pièce en bois de peuplier découpée à l'aide d'une découpeuse laser. 
 Cette pièce constitue la fondation du char à voile. Nous nous sommes inspirés d'un projet existant pour la concevoir. Elle est pourvue de trous permettant de fixer les nombreuses composantes du char et s'emboîte avec le coffrage pour former une seule pièce.
 
-<img src="../../images/ChâssisV2_proto.png" height="80%" width="80%">
+<img src="../../images/BaseV2_proto.png" height="80%" width="80%">
 
 ### bras roues principale : 
 Il s'agit d'une pièce en bois de peuplier découpée à l'aide d'une découpeuse laser. 

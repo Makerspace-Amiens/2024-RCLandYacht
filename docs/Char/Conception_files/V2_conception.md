@@ -78,12 +78,14 @@ Cette pièce est positionnée au-dessus et vers l'avant du châssis. Son rôle e
 <img src="../../images/Renfort_fixationV2_proto.png" height="80%" width="80%">
 
 ### Réhausse : 
+Il s'agit d'une pièce réaliser à l'aide d'une imprimante 3D.
+Cette pièce, imprimées en deux exemplaires, se trouvent entre le renfort de fixation des bras et le renfort du longeron. Elles permettent de renforcé la structure.
 
 <img src="../../images/RéhausseV2_proto.png" height="80%" width="30%">
 
 ### Renfort longeron : 
 Il s'agit d'une pièce en bois de peuplier découpée à l'aide d'une découpeuse laser. 
-Cette pièce est positionnée au-dessus et vers l'avant du châssis. Son rôle est de renforcer le châssis contre les contraintes du poids susceptible de le plier, ainsi que celles exercées par les bras situés en dessous.
+Cette pièce est positionnée au-dessus de la réhausse et du longeron haut du coffrage. Son rôle est de renforcer et de relier le coffrage avec le châssis.
 
 <img src="../../images/Renfort_longeronV2_proto.png" height="80%" width="80%">
 

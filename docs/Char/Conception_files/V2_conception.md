@@ -29,3 +29,13 @@ Le coffrage est l'élément qui relie la fixation de la roue avant au châssis d
 <img src="../../images/CoffrageV2_proto.png" height="80%" width="80%">
 
 ### Longeron horizontal : 
+Il s'agit d'une pièce en bois de peuplier découpée à l'aide d'une découpeuse laser. 
+Cette pièce est utilisée pour réaliser le coffrage, dont nous avons découpé deux exemplaires : un pour la partie inférieure et un pour la partie supérieure.
+
+<img src="../../images/Longeron_horizontalV2_proto.png" height="80%" width="80%">
+
+### Longeron vertical : 
+Il s'agit d'une pièce en bois de peuplier découpée à l'aide d'une découpeuse laser. 
+Cette pièce est également utilisée pour réaliser le coffrage, pour lequel nous avons découpé deux exemplaires : un pour le côté gauche et un pour le côté droit.
+
+<img src="../../images/Longeron_verticalV2_proto.png" height="80%" width="80%">

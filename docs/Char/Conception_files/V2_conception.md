@@ -14,6 +14,9 @@ Pour la deuxième version de notre char, nous nous sommes inspirés d'un projet 
 
 Voici le lien du site de notre inspriration : 
 
-[Lien du site internet](https://www.sitakiki.fr/modnaval/char.htm).
+[Inspiration du char à voile](https://www.sitakiki.fr/modnaval/char.htm)
 
-<img src="../../images/Chassis_charV1.png" height="80%" width="80%">
+### Prototype :
+Avant de finaliser la deuxième version complète du char, nous avons décidé de créer un prototype en bois et en impression 3D.
+
+<img src="../../images/charV2_proto.png" height="80%" width="80%">

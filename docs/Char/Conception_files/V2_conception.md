@@ -39,3 +39,13 @@ Il s'agit d'une pièce en bois de peuplier découpée à l'aide d'une découpeus
 Cette pièce est également utilisée pour réaliser le coffrage, pour lequel nous avons découpé deux exemplaires : un pour le côté gauche et un pour le côté droit.
 
 <img src="../../images/Longeron_verticalV2_proto.png" height="80%" width="80%">
+
+### pièce pour le mât : 
+Il s'agit d'une pièce réaliser à l'aide d'une imprimante 3D.
+Cette pièce accueille le mât du char jusqu'à sa base.
+
+<img src="../../images/pièce_mâtV2_proto.png" height="40%" width="40%">
+
+### Pièce roue avant
+
+<img src="../../images/Pièce_roue_avant.png" height="60%" width="60%">

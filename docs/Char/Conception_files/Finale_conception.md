@@ -9,6 +9,7 @@ title: Version finale
 # Conception & Modélisation 
 
 ## Version finale
+Pour notre version finale, nous avons amélioré la deuxième version de notre char en ajoutant des renforts imprimés en 3D dans le coffrage et en utilisant des tubes en aluminium pour le rigidifier.
 
 
 <img src="../../images/charVF.png" height="80%" width="80%">

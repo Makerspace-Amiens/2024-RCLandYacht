@@ -95,3 +95,12 @@ Il s'agit d'une pièce réaliser à l'aide d'une imprimante 3D.
 Cette pièce, imprimées en deux exemplaires, se trouvent à l'extrémité des bras et servent à fixer les roues principales au char. Elles sont également reliées à la pièce tri-branche grâce aux tubes en aluminium, ce qui renforce l'ensemble de la structure.
 
 <img src="../../images/fixation_roueV2_proto.png" height="80%" width="80%">
+
+## V2 réalisée :
+Voici la photo de notre deuxième version du char : 
+
+<img src="../../images/V2.jpeg" height="80%" width="70%">
+
+## Conclusion :
+
+La deuxième version nous a permis de mieux comprendre les besoins en composants de notre char. Nous avons pu le réaliser et nous avons constaté que le coffrage et le châssis en bois n'étaient pas une mauvaise idée. Nous avons donc décidé de les conserver tout en les améliorant, car nous avons remarqué que le bois avait tendance à se plier sous le poids.

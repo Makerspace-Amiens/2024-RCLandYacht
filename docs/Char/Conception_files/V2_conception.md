@@ -12,6 +12,8 @@ title: 2ème Version
 
 Pour la deuxième version de notre char, nous nous sommes inspirés d'un projet existant qui nous semblait particulièrement bien réalisé.
 
-[Lien](https://www.sitakiki.fr/modnaval/char.htm "titre de lien optionnel").
+Voici le lien du site de notre inspriration : 
+
+[Lien du site internet](https://www.sitakiki.fr/modnaval/char.htm).
 
 <img src="../../images/Chassis_charV1.png" height="80%" width="80%">

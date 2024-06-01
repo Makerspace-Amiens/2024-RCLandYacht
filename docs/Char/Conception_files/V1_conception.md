@@ -51,7 +51,11 @@ Voici les roues que nous avons trouvés :
 Nous avons choisi ces roues car elles permettent un facile dépassement des obstacles mais est également indiquées pour tous les types de sol en extérieur nottament sur le sable.
 
 ### Voile :
+Voici la voile que nous avons trouvés : 
 
+<img src="../../images/VoileV1.png" height="80%" width="80%">
+
+Nous avons opté pour cette voile en tissu Dacron car elle offre le meilleur équilibre entre qualité, prix et durabilité pour la réalisation de la voile de notre char.
 
 
 

@@ -91,6 +91,12 @@ Cette pièce est équipée d'un trou central pour permettre le passage du tube e
 
 <img src="../../images/tri-brancheVF.png" height="80%" width="80%">
 
+## Renfort longeron : 
+Il s'agit d'une pièce en bois de peuplier découpée à l'aide d'une découpeuse laser. 
+Cette pièce est positionnée au-dessus de la réhausse et du longeron haut du coffrage. Son rôle est de renforcer et de relier le coffrage avec le châssis.
+
+<img src="../../images/renfort_longeronVF.png" height="80%" width="80%">
+
 ## Coffrage arrière :
 Il s'agit d'une pièce réaliser à l'aide d'une imprimante 3D.
 Cette pièce est conçue pour loger la Carte ESP32, le servomoteur arrière et la batterie. De plus, elle accueille l'extrémité du tube en aluminium allant du coffrage du mât vers cette pièce, renforçant ainsi la structure du char sur toute sa longueur.

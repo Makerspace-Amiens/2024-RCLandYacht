@@ -83,14 +83,20 @@ Le châssis est l'élément central du char, comprenant la base, la pièce tri-b
 Il s'agit d'une pièce en bois de peuplier découpée à l'aide d'une découpeuse laser. 
 Cette pièce constitue la fondation du char à voile. Nous nous sommes inspirés d'un projet existant pour la concevoir. Elle est pourvue de trous permettant de fixer les nombreuses composantes du char et s'emboîte avec le coffrage pour former une seule pièce.
 
+<img src="../../images/base_chassisVF.png" height="80%" width="80%">
+
 ## pièce tri-branche : 
 Il s'agit d'une pièce réaliser à l'aide d'une imprimante 3D.
-Cette pièce est équipée d'un trou central pour permettre le passage du tube en aluminium reliant le coffrage du mât au coffrage arrière. De plus, elle comporte deux trous orientés à 15 degrés vers l'arrière à ses extrémités, permettant de la reier aux supports des roues principales à l'aide des tubes en aluminium, ce qui renforce l'ensemble de la structure.
+Cette pièce est équipée d'un trou central pour permettre le passage du tube en aluminium reliant le coffrage du mât au coffrage arrière. De plus, elle comporte deux trous orientés à 15 degrés vers l'arrière à ses extrémités, permettant de la relier aux supports des roues principales à l'aide des tubes en aluminium, ce qui renforce l'ensemble de la structure.
+
+<img src="../../images/tri-brancheVF.png" height="80%" width="80%">
 
 ## Coffrage arrière :
 Il s'agit d'une pièce réaliser à l'aide d'une imprimante 3D.
 Cette pièce est conçue pour loger la Carte ESP32, le servomoteur arrière et la batterie. De plus, elle accueille l'extrémité du tube en aluminium allant du coffrage du mât vers cette pièce, renforçant ainsi la structure du char sur toute sa longueur.
 Nous avons opté pour une seule pièce pour loger la carte, le servomoteur et la batterie, afin d'optimiser l'espace sur le châssis qui est déjà assez restreint.
+
+<img src="../../images/coffrage_arrièreVF.png" height="80%" width="80%">
 
 ## bras roues principale : 
 Il s'agit d'une pièce en bois de peuplier découpée à l'aide d'une découpeuse laser. 

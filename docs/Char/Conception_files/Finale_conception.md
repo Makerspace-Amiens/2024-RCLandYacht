@@ -24,12 +24,14 @@ Le coffrage est l'élément qui relie la fixation de la roue avant au châssis d
 ## Longeron horizontal : 
 Il s'agit d'une pièce en bois de peuplier découpée à l'aide d'une découpeuse laser. 
 Cette pièce est utilisée pour réaliser le coffrage, dont nous avons découpé deux exemplaires : un pour la partie inférieure et un pour la partie supérieure.
+La partie supérieure est équipée de plusieurs trous espacés de manière égale, permettant de régler la position du mât le long du longeron.
 
 <img src="../../images/Longeron_horizontal.png" height="80%" width="80%">
 
 ## Longeron vertical : 
 Il s'agit d'une pièce en bois de peuplier découpée à l'aide d'une découpeuse laser. 
 Cette pièce est également utilisée pour réaliser le coffrage, pour lequel nous avons découpé deux exemplaires : un pour le côté gauche et un pour le côté droit.
+Par rapport à la deuxième version, elle comporte trois trous supplémentaires sur le côté pour fixer le longeron au renfort du coffrage.
 
 <img src="../../images/Longeron_vertical.png" height="80%" width="80%">
 
@@ -43,6 +45,7 @@ Elle comporte quatre petits trous pour visser les quatre parties du coffrage, ai
 ## pièce pour le mât : 
 Il s'agit d'une pièce réaliser à l'aide d'une imprimante 3D.
 Cette pièce accueille le mât du char et permet à celui-ci de descendre à l'intérieur du coffrage, réduisant ainsi les contraintes sur la pièce.
+Comparé à la deuxième version, nous avons décidé de diviser la pièce en deux parties, permettant au mât de glisser à l'intérieur. Ensuite, les deux pièces sont vissées ensemble pour immobiliser le mât.
 
 <img src="../../images/Pièce_mat.png" height="50%" width="70%">
 
@@ -60,6 +63,8 @@ Ces tubes s'étendent de l'avant du coffrage jusqu'au châssis, du châssis à l
 <img src="../../images/Tube_alu_coffrage.png" height="80%" width="80%">
 
 ## Pièce roue avant
+Il s'agit d'une pièce réaliser à l'aide d'une imprimante 3D.
+Cette pièce est fixée au coffrage avec quatre vis et permet d'attacher la roue avant à l'aide d'une vis supplémentaire.
 
 <img src="../../images/Pièce_roue_avant.png" height="60%" width="60%">
 

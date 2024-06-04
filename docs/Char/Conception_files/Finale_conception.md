@@ -77,6 +77,8 @@ Voici la photo de notre coffrage une fois l'ensemble réaliser et monter :
 # Châssis 
 Le châssis est l'élément central du char, comprenant la base, la pièce tri-branche, le coffrage arrière contenant la batterie, la carte ESP32 et le second servomoteur pour ajuster la voile. Il inclut également les bras pour la fixation des roues principales, les renforts des fixations des bras, et la pièce de renfort entre le coffrage et l'ensemble des composants du châssis.
 
+<img src="../../images/assemblage_chassisVF.png" height="80%" width="80%">
+
 ## Base du Châssis
 Il s'agit d'une pièce en bois de peuplier découpée à l'aide d'une découpeuse laser. 
 Cette pièce constitue la fondation du char à voile. Nous nous sommes inspirés d'un projet existant pour la concevoir. Elle est pourvue de trous permettant de fixer les nombreuses composantes du char et s'emboîte avec le coffrage pour former une seule pièce.

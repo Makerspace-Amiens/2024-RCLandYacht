@@ -12,7 +12,7 @@ Bienvenue dans la documentation du projet Char à voile télécommandé. Ce site
 
 ## À propos du Projet
 
-Le projet RC Landyacht consiste a créer un char a voile radiocommandé, le projet tourne donc autour d'un char à voile miniature qui seras controlable avec une application connecté en bluetooth qui permettra de controler la direction ainsi que la voile qui sera plus ou moins tendu pour controler la vitesse du char à voile.
+Le projet RC Landyacht consiste a créer un char a voile radiocommandé, le projet tourne donc autour d'un char à voile miniature qui seras controlable avec une application connecté en WIFI qui permettra de controler la direction ainsi que la voile qui sera plus ou moins tendu pour controler la vitesse du char à voile.
 
 ## Poster
 

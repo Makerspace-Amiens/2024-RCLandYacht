@@ -79,7 +79,7 @@ Voici la photo de notre coffrage une fois l'ensemble réaliser et monter :
 
 ## Pièce support + direction :
 
-<img src="../../images/coffrageV3.jpeg" height="80%" width="80%">
+<img src="../../images/support_roueavVF.png" height="80%" width="80%">
 
 
 

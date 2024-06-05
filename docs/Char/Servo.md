@@ -26,7 +26,7 @@ Photo du servo moteur.
 
 ## Enrouleur : 
 
-<img src="../../images/EnrouleurVF.png" height="80%" width="80%">
+<img src="../images/EnrouleurVF.png" height="80%" width="80%">
 
 ##
 

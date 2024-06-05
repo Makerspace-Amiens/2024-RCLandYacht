@@ -104,6 +104,8 @@ Nous avons opté pour une seule pièce pour loger la carte, le servomoteur et la
 
 <img src="../../images/coffrage_arrièreVF.png" height="80%" width="80%">
 
+
+
 ## bras roues principale : 
 Il s'agit d'une pièce en bois de peuplier découpée à l'aide d'une découpeuse laser. 
 Cette pièce, découpées en deux exemplaires, servent à connecter le châssis aux fixations des roues principales.

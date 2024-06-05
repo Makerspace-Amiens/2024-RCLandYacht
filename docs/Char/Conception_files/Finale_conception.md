@@ -146,3 +146,17 @@ Cette pièce, imprimées en deux exemplaires, se trouvent à l'extrémité des b
 <img src="../../images/pièce_roueprinVF.png" height="80%" width="80%">
 
 # Roues principales :
+
+<img src="../../images/assemblage_rouearVF.png" height="80%" width="80%">
+
+## Première partie de la roue : 
+
+<img src="../../images/rouear_part1VF.png" height="80%" width="80%">
+
+## Deuxième partie de la roue :
+
+<img src="../../images/rouear_part2VF.png" height="80%" width="80%">
+
+## Roulement 608zz : 
+
+<img src="../../images/roulement_608zzVF.jpg" height="80%" width="80%">

@@ -73,6 +73,15 @@ Voici la photo de notre coffrage une fois l'ensemble réaliser et monter :
 
 <img src="../../images/coffrageV3.jpeg" height="80%" width="80%">
 
+# Assemblage roue avant :
+
+<img src="../../images/assemblage_roueavVF.png" height="80%" width="80%">
+
+## Pièce support + direction :
+
+<img src="../../images/coffrageV3.jpeg" height="80%" width="80%">
+
+
 
 # Châssis 
 Le châssis est l'élément central du char, comprenant la base, la pièce tri-branche, le coffrage arrière contenant la batterie, la carte ESP32 et le second servomoteur pour ajuster la voile. Il inclut également les bras pour la fixation des roues principales, les renforts des fixations des bras, et la pièce de renfort entre le coffrage et l'ensemble des composants du châssis.
@@ -124,3 +133,5 @@ Il s'agit d'une pièce réaliser à l'aide d'une imprimante 3D.
 Cette pièce, imprimées en deux exemplaires, se trouvent à l'extrémité des bras et servent à fixer les roues principales au char. Elles sont également reliées à la pièce tri-branche grâce aux tubes en aluminium, ce qui renforce l'ensemble de la structure.
 
 <img src="../../images/pièce_roueprinVF.png" height="80%" width="80%">
+
+# Roues principales :

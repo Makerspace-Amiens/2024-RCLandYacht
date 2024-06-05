@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: technicals
 parent: Char
 nav_order: 2
 title: Conception
@@ -26,7 +26,7 @@ Nous avons listé 6 catégories :
 
 ## Servomoteur MG996R : 
 
-<model-viewer src="./Conception_files/MG996RServo.glb" ar ar-modes="webxr scene-viewer quick-look" camera-controls tone-mapping="commerce" poster="./Conception_files/MG996RServo.webp" shadow-intensity="1">
+<model-viewer src="../images/MG996RServo.glb" ar ar-modes="webxr scene-viewer quick-look" camera-controls tone-mapping="commerce" shadow-intensity="1">
     <div class="progress-bar hide" slot="progress-bar">
         <div class="update-bar"></div>
     </div>

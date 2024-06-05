@@ -83,15 +83,15 @@ Voici la photo de notre coffrage une fois l'ensemble réaliser et monter :
 
 ## Première partie de la roue :
 
-<img src="../../images/support_roueavVF.png" height="80%" width="80%">
+<img src="../../images/roueav_part1VF.png" height="80%" width="80%">
 
 ## Deuxième partie de la roue : 
 
-<img src="../../images/support_roueavVF.png" height="80%" width="80%">
+<img src="../../images/roueav_part2VF.png" height="80%" width="80%">
 
 ## Roulement 608zz : 
 
-<img src="../../images/support_roueavVF.png" height="80%" width="80%">
+<img src="../../images/roulement_608zzVF.jpg" height="80%" width="80%">
 
 
 # Châssis 

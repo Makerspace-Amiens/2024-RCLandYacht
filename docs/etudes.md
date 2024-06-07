@@ -14,7 +14,7 @@ Nous allons donc vous présenter nos améliorations suivantes:
 -baûme libre tenu par la voile
 
 
-1) Le coffrage
+## Le coffrage
 
     Pour créer le corps de notre char à voile plusieurs options s'offraient à nous, en effet la plupart des chars à voile télécommandé se contente d'une bar de fers ou d'une plaque qui supporte le mâts l'élétronique et auquels les roues sont attachées.
     
@@ -25,5 +25,5 @@ Nous allons donc vous présenter nos améliorations suivantes:
     Le seule problèmes que nous avons rencontrez est la solidité de la stucture, mais pour palier à cela nous l'avons renforcer a l'intèrieur en y glisssant un tube d'aluminium à l'intèrieur qui pourra supporter les différentes charges et chocs à la place du bois.
 
 
-2) La direction
+## La direction
 

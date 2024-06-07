@@ -1,5 +1,5 @@
 ---
-layout: technicals
+layout: default
 parent: Char
 nav_order: 2
 title: Conception
@@ -24,18 +24,4 @@ Nous avons listé 6 catégories :
 <img src="../../images/post-it.jpeg" height="80%" width="80%">
 
 
-## Servomoteur MG996R : 
 
-<model-viewer src="../images/MG996RServo.glb" ar ar-modes="webxr scene-viewer quick-look" camera-controls tone-mapping="commerce" shadow-intensity="1">
-    <div class="progress-bar hide" slot="progress-bar">
-        <div class="update-bar"></div>
-    </div>
-</model-viewer>
-
-## Carte ESP32 : 
-
-<model-viewer src="./Conception_files/ESP32.glb" ar ar-modes="webxr scene-viewer quick-look" camera-controls tone-mapping="commerce" poster="./Conception_files/poster.webp" shadow-intensity="1">
-    <div class="progress-bar hide" slot="progress-bar">
-        <div class="update-bar"></div>
-    </div>
-</model-viewer>

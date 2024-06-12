@@ -16,7 +16,7 @@ L'objectif de ce cahier des charges est de définir les spécifications nécessa
 
 ## Objectifs du Projet
 
-Nous nous sommes lancé comme objectifque:
+Nous nous sommes lancé comme objectif que:
     - que le char à voile soit fonctionnelle
     - qu'il fonctionne sans casser
     - qu'il puisse rouler sur le sable
@@ -45,13 +45,13 @@ Dimensions et poids :
 
  
 
-Longueur :  centimètres 
+Longueur :  76cm 
 
-Largeur :  centimètres  
+Largeur :  51cm 
 
-Hauteur :  centimètres 
+Hauteur :  105cm
 
-Poids total : maximum de ? kilogrammes pour faciliter le transport et la maniabilité. 
+Poids total : 3kg 
 
 Système de propulsion : 
 

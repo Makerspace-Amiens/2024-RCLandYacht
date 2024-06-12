@@ -78,19 +78,24 @@ Voici la photo de notre coffrage une fois l'ensemble réaliser et monter :
 <img src="../../images/assemblage_roueavVF.png" height="80%" width="80%">
 
 ## Pièce support + direction :
+Il s'agit d'une pièce réaliser à l'aide d'une imprimante 3D.
+Cette pièce est fixée à l'aide d'une vis à la pièce dans le coffrage et permet d'attacher et tourner la roue avant.
 
 <img src="../../images/support_roueavVF.png" height="80%" width="80%">
 
 ## Première partie de la roue :
+Il s'agit d'une pièce réaliser à l'aide d'une imprimante 3D.
+Cette première partie de la pièce est réalisée en PLA et comporte un trou central pour la fixation, ainsi que deux trous latéraux pour l'installation de roulements à billes 608zz.
 
 <img src="../../images/roueav_part1VF.png" height="80%" width="80%">
 
 ## Deuxième partie de la roue : 
-
+Il s'agit d'une pièce réalisée à l'aide d'une imprimante 3D. La deuxième partie de cette pièce est fabriquée en TPU, un matériau flexible, permettant un emboîtement parfait avec la première partie de la roue tout en absorbant les chocs.
 <img src="../../images/roueav_part2VF.png" height="80%" width="80%">
 
 ## Roulement 608zz : 
-
+il s'agit d'un roulement à bille de 22mm de diamètre.
+Nous avons choisi ce roulement pour sa grande durabilité, son faible besoin d'entretien et sa capacité élevée de charge.
 <img src="../../images/roulement_608zzVF.jpg" height="80%" width="80%">
 
 
@@ -150,13 +155,15 @@ Cette pièce, imprimées en deux exemplaires, se trouvent à l'extrémité des b
 <img src="../../images/assemblage_rouearVF.png" height="80%" width="80%">
 
 ## Première partie de la roue : 
-
+Il s'agit d'une pièce réaliser à l'aide d'une imprimante 3D.
+Cette première partie de la pièce est réalisée en PLA et comporte un trou central pour la fixation, ainsi que deux trous latéraux pour l'installation de roulements à billes 608zz.
 <img src="../../images/rouear_part1VF.png" height="80%" width="80%">
 
 ## Deuxième partie de la roue :
-
+Il s'agit d'une pièce réalisée à l'aide d'une imprimante 3D. La deuxième partie de cette pièce est fabriquée en TPU, un matériau flexible, permettant un emboîtement parfait avec la première partie de la roue tout en absorbant les chocs.
 <img src="../../images/rouear_part2VF.png" height="80%" width="80%">
 
 ## Roulement 608zz : 
-
+il s'agit d'un roulement à bille de 22mm de diamètre.
+Nous avons choisi ce roulement pour sa grande durabilité, son faible besoin d'entretien et sa capacité élevée de charge.
 <img src="../../images/roulement_608zzVF.jpg" height="80%" width="80%">

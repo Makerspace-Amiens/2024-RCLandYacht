@@ -61,10 +61,3 @@ La corde viens s'enrouler autour de cette pièce avec un oeillet placé en amont
 Dans un premier temps j'ai utilisé WOKWI pour coder les servos moteurs avec des boutons push-pull ensuite je l'ai retranscrit sur Virtual Code Studio et je l'ai adapté pour qu'il fonctionne avec l'application BLYNK qui fait office de télécommande. 
 
 
-## Servomoteur MG996R : 
-
-<model-viewer src="../images/MG996RServo.glb" ar ar-modes="webxr scene-viewer quick-look" camera-controls tone-mapping="commerce" shadow-intensity="1">
-    <div class="progress-bar hide" slot="progress-bar">
-        <div class="update-bar"></div>
-    </div>
-</model-viewer>

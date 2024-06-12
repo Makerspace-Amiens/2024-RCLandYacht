@@ -5,4 +5,6 @@ nav_order: 3
 has_children: true
 ---
 
-yeeessss
+# Char à voile :
+
+<img src="../images/char_vrai.jpg" height="80%" width="80%">

@@ -10,6 +10,8 @@ title: Servomoteur MG996R/ Servomoteur Rotation continue
 
 Notre premier servo moteur est une servo standart qui qui à une rotation de 180°. Il est utlisé pour la direction de la roue avant du char à voile et il est commandé par l'ESP32. 
 
+<img src="../images/servo_mg996R.jpg" height="80%" width="80%">
+
 ### Caractéristique du servomoteur 
 
 Fabricant : Tower Pro
@@ -29,6 +31,8 @@ Photo du servo moteur.
 ## Servomoteur Parallax INC rotation continue HighSpeed
 
 Le second servomoteur est utilisé pour tendre et détendre la voile c'est un servomoteur à rotation continue. 
+
+<img src="../images/servo_mg996R_cont.png" height="80%" width="80%">
 
 ### Caractéristique du servomoteur.
 
